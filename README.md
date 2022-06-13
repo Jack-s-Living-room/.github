@@ -1,4 +1,7 @@
-# offical group of Jack's Living room
+# Offical Group Of Jack's Living room
+If you believe this is fake please run this command in #bot commands 
+.github
+
 Staff are allowed on this group. Joining this group will allow you to see and edit the code that the bot in the server. The code is updated alot and will need updating. You MUST NOT use this code as your own and MUST give Bud82jp#0038 credit in the about section of the bot. You also MUST ask Bud82jp#0038 to use it. You can do this by opening a ticket in the discord server or DMing him.
 If you are found to be using my code I shall take legal action. 
 
